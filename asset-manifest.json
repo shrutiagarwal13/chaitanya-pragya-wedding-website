@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.dd0292d9.chunk.css",
+    "main.css": "/static/css/main.a4b2452b.chunk.css",
     "main.js": "/static/js/main.b614d8e2.chunk.js",
     "main.js.map": "/static/js/main.b614d8e2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.824b76cf.js",
@@ -8,7 +8,7 @@
     "static/js/2.03205d84.chunk.js": "/static/js/2.03205d84.chunk.js",
     "static/js/2.03205d84.chunk.js.map": "/static/js/2.03205d84.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.dd0292d9.chunk.css.map": "/static/css/main.dd0292d9.chunk.css.map",
+    "static/css/main.a4b2452b.chunk.css.map": "/static/css/main.a4b2452b.chunk.css.map",
     "static/js/2.03205d84.chunk.js.LICENSE.txt": "/static/js/2.03205d84.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/venue-bg1.1f4f2dee.jpg",
     "static/media/aarohi.f7638303.jpeg": "/static/media/aarohi.f7638303.jpeg",
@@ -64,7 +64,7 @@
   "entrypoints": [
     "static/js/runtime-main.824b76cf.js",
     "static/js/2.03205d84.chunk.js",
-    "static/css/main.dd0292d9.chunk.css",
+    "static/css/main.a4b2452b.chunk.css",
     "static/js/main.b614d8e2.chunk.js"
   ]
 }
